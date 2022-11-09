@@ -25,4 +25,4 @@ HTML通过提前约定好的标签来构建我们的网页内容，通过浏览�
 
 ##### HTML文件的骨架:
 
-![骨架:](C:\Users\86191\Pictures\Saved Pictures\bb3b966444869bd2d4a9fb6982fac640.png)
+![骨架:](https://img-blog.csdnimg.cn/img_convert/bb3b966444869bd2d4a9fb6982fac640.png)
