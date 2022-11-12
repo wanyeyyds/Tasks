@@ -21,3 +21,5 @@
 [geek/HTML表格与表单元素（2）.md](https://github.com/wanyeyyds/Tasks/blob/8470c95a38b6445b87eff69db780fc59c4f3fd8c/geek/HTML%E8%A1%A8%E6%A0%BC%E4%B8%8E%E8%A1%A8%E5%8D%95%E5%85%83%E7%B4%A0%EF%BC%882%EF%BC%89.md)
 
 [geek/html内联元素和块级元素的基本概念及使用示例.md](https://github.com/wanyeyyds/Tasks/blob/8470c95a38b6445b87eff69db780fc59c4f3fd8c/geek/html%E5%86%85%E8%81%94%E5%85%83%E7%B4%A0%E5%92%8C%E5%9D%97%E7%BA%A7%E5%85%83%E7%B4%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E5%8F%8A%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B.md)
+
+[geek/个人简历demo.md](https://github.com/wanyeyyds/Tasks/blob/76d031ee72f60724b8cbf0702b161f75c92192ce/geek/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86demo.md)
