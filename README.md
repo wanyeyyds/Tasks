@@ -35,3 +35,7 @@
 [CSS的五种定位方式.md](https://github.com/wanyeyyds/Tasks/blob/f05f9c18477717e4ae22a70bdeb0c25a7b34ff22/geek/CSS%E7%9A%84%E4%BA%94%E7%A7%8D%E5%AE%9A%E4%BD%8D%E6%96%B9%E5%BC%8F.md)
 
 [CSS的作用.md](https://github.com/wanyeyyds/Tasks/blob/f05f9c18477717e4ae22a70bdeb0c25a7b34ff22/geek/CSS%E7%9A%84%E4%BD%9C%E7%94%A8.md)
+
+[JavaScript数据类型.md](https://github.com/wanyeyyds/Tasks/blob/51b5bb89eeef0ed0c37682ef72d90a4edfa56020/geek/JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+
+[JavaScript的基本语法.md](https://github.com/wanyeyyds/Tasks/blob/51b5bb89eeef0ed0c37682ef72d90a4edfa56020/geek/JavaScript%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
